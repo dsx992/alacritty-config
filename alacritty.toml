@@ -1,6 +1,14 @@
-general.import = [
+# general.import = [
 #     "~/.config/alacritty/themes/alacritty-theme/themes/catppuccin_mocha.toml"
+# ]
+
+general.import = [
+    "~/.config/alacritty/themes/rosepine/dist/rose-pine-dawn.toml"
 ]
+
+# [colors.primary]
+# background = '#111111'
+# foreground = '#CECECE'
 
 [font]
 size = 8
