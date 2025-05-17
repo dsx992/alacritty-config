@@ -1,5 +1,5 @@
 general.import = [
-    "~/.config/alacritty/themes/alacritty-theme/themes/catppuccin_mocha.toml"
+#     "~/.config/alacritty/themes/alacritty-theme/themes/catppuccin_mocha.toml"
 ]
 
 [font]
