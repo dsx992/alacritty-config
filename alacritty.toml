@@ -2,8 +2,20 @@
 #     "~/.config/alacritty/themes/alacritty-theme/themes/catppuccin_mocha.toml"
 # ]
 
-general.import = [
-    "~/.config/alacritty/themes/rosepine/dist/rose-pine-dawn.toml"
+# general.import = [
+#     "themes/rosepine/dist/rose-pine-dawn.toml",
+# ]
+[colors.primary]
+# foreground = "#000000"
+# background = "#ffffff"
+
+[window.dimensions]
+lines=50
+columns=80
+
+[general]
+import = [
+    "themes/alacritty-theme/themes/enfocado_light.toml"
 ]
 
 # [colors.primary]
